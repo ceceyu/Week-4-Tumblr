@@ -5,7 +5,7 @@ Time spent: 6 hours
 
 Notes: Did all the optionals for the first time (yay). Used <a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=loading%20png%20swift">this tutorial</a> to create the loading animation.
 
-With more time, would have figured out how to make the "Nevermind" button overlap the tabs, and would have made smarter logic for dismissing the bobbing tooltip.
+With more time, would have figured out how to make the "Nevermind" button overlap the tabs, and would have made smarter logic for tab selected states and dismissing the bobbing tooltip.
 
 ##Project Requirements
 - Tapping on Home, Search, Account, or Trending should show the respective screen and highlight the tab bar button.
